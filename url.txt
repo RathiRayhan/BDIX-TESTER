@@ -91,7 +91,6 @@ http://www.tajpata.com
 http://file.tajpata.com
 http://bitflixbd.com
 http://file.khulnaflix.net
-http://www.swiftnetbd.com
 http://103.85.235.254
 http://www.bdspeed.com
 http://www.netmatrixbd.com
@@ -104,7 +103,6 @@ http://cinemacity.live
 http://ftp.com.bd
 http://media.furiousnet.net
 http://quickonlineftp.com
-http://103.112.63.21
 http://103.70.140.14
 http://103.82.8.194
 http://movies.fnfonlinebd.com
@@ -150,7 +148,6 @@ http://146.196.48.9
 http://146.196.48.10
 http://103.110.126.146:8000
 http://fs1.mebd.net
-http://jhakkas.live
 http://bmitbd.com
 http://192.168.100.5/fastnet
 http://www.c1movies.com
@@ -162,8 +159,6 @@ https://ftp4.bdix.com.bd
 https://ftp5.bdix.com.bd
 https://media.bdix.com.bd
 https://movie.bdix.com.bd
-https://bdix.com.bd/mainweb/list.html
-http://filmguro.site
 http://172.27.100.3
 http://192.168.100.16
 http://192.168.100.16:8096
@@ -176,9 +171,6 @@ http://10.100.100.2
 https://www.flixjar.com
 https://bdflixlive.com
 http://tokis.xyz
-https://salamonline.com.bd
-https://www.dolyitcorner.net
-http://akkadukka.com
 http://103.203.94.1:8065
 http://103.86.200.7
 http://103.85.197.10
@@ -187,9 +179,8 @@ http://10.1.1.1
 http://172.22.22.100
 http://10.10.10.10:8080
 http://160.202.146.220
-http://172.16.50.4        
+http://172.16.50.4
 http://server3.ftpbd.net
-http://10.16.100.244
 http://discoveryftp.net/
 http://dflix.live
 http://fs2.amrbd.com
