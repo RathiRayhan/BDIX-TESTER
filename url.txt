@@ -4,8 +4,6 @@ http://172.16.50.12
 http://discoveryftp.net
 http://movies.discoveryftp.net
 https://cdn1.discoveryftp.net/
-https://cdn2.discoveryftp.net/
-https://cdn3.discoveryftp.net/
 http://ftpbd.net
 http://media.ftpbd.net
 http://server1.ftpbd.net
